@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  margin-top: 50px;
+  background-color: #bc8326;
+}
+
+.croissant-img {
+  max-width: 50%;
+  height: auto;
+}
